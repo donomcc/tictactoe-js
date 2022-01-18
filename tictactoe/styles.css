@@ -1,0 +1,31 @@
+button {
+  width: 80px;
+  height: 80px;
+  margin: 10px 10px;
+  border-radius: 50%;
+  margin: 4px;
+  padding: 4px;
+}
+body {
+  color: #f5f5f5;
+  text-align: center;
+  background-color: #121212;
+}
+.reset:hover {
+  opacity: 0.8;
+}
+.blue {
+  background-color: #30475e;
+}
+.red {
+  background-color: #f05454;
+}
+.invalid {
+  border-width: thick;
+  border-color: red;
+}
+.test {
+  background-color: purple;
+}
+.used {
+}
